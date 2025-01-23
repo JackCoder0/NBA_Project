@@ -1,5 +1,16 @@
 # React + TypeScript + Vite
 
+pip install flask flask-cors   
+npm i
+npm i axios
+python -m venv venv  
+pip install nba_api requests numpy pandas     
+venv\Scripts\activate                                         
+pip install flask flask-cors nba_api  
+pip install pandas          
+python nba_stats.py
+npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
